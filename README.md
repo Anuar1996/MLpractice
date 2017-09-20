@@ -6,4 +6,6 @@ task 1 - about my first experience with Python and numpy package.
 
 task 2 - my implementation of kNN algorithm for MNIST and fetch_20newsgroups datasets.
 
+task 3 - my implementation of SVM with qp solver and subgradient descent.
+
 task 4 - implementation of gaussian mixture model.
